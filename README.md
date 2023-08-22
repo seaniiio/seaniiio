@@ -3,10 +3,12 @@
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaniiio&show_icons=true&bg_color=00000000)
 </div>
-
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnc4750)](https://solved.ac/cnc4750/)
-
+</div>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seaniiio&layout=compact&theme=tokyonight)
+</div>
 <!--
 **seaniiio/seaniiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
