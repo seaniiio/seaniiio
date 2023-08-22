@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=seaniiio&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=seaniiio&fontSize=90&fontColor=#531269)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaniiio&show_icons=true&bg_color=00000000)
 
