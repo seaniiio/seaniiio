@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=seaniiio&fontSize=90&fontColor=#531269)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🫧seaniiio&fontSize=90&fontColor=#531269)
 
 <div align="center">
 
