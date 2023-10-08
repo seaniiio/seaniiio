@@ -4,8 +4,8 @@
 
 
   ## 🔥 My Git Stats 🔥
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaniiio&show_icons=true&theme=radical)
-
+  [![seaniiio's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaniiio&hide=stars,contribs&count_private=true&show_icons=true&&theme=tokyonight)](https://github.com/seaniiio/github-readme-stats)
+ 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnc4750)](https://solved.ac/cnc4750/)
   
 </div>
