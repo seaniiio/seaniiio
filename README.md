@@ -24,10 +24,11 @@
   </div>
 </div><br>
 
-## 💻 Stats 💻
+## 💻 My Stats 💻
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seaniiio&show_icons=true&theme=tokyonight&count_private=true)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnc4750)](https://solved.ac/cnc4750/)
+
 
 </div>
 <!--
