@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🫧seaniiio&fontSize=90&fontColor=#531269)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnc4750)](https://solved.ac/cnc4750/)
 
 <!--
 **seaniiio/seaniiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
