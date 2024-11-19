@@ -3,6 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🫧seaniiio&fontSize=90&fontColor=#531269)
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseaniiio)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/seaniiio?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <div>
