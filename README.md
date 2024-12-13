@@ -4,13 +4,15 @@
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseaniiio)](https://hits.seeyoufarm.com)
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/seaniiio"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/seaniiio?pet-id=653985146975418391"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
