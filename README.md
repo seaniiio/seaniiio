@@ -3,12 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🫧seaniiio&fontSize=90&fontColor=#531269)
 <br/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/seaniiio?pet-id=653985146975418391"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seaniiio&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seaniiio"
+  width="600"
+  height="300"
+/>
 </a>
 
 </div>
