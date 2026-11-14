@@ -5,7 +5,7 @@
 
 </div>
 
-## 안녕하세요, 김시원입니다 👋  
+## 안녕하세요 👋  
 
 ### 🧭 Experience & Education
 
